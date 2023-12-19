@@ -1,0 +1,8 @@
+*.hdf5
+results/*
+models/*
+vars_*
+catboost_info
+cbu/*
+CatBoost_ibug/*
+__pycache__
