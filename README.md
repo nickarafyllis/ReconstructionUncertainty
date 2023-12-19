@@ -6,7 +6,7 @@ This repository hosts the code base for the report that I wrote during my intern
 To create a conda environment with the needed dependecies run:
 ```conda env create -f env.yml```
 Then: 
-```conda activate reco_env```
+```conda activate reco_env``` and
 ```pip install ibug```
 
 To reproduce table 1 and train uncertainty models for tables 2 and 3 run ```bash reproduce_train.sh```. The results for the table 1 will be in the 'results' directory.

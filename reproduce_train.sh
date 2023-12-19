@@ -6,6 +6,8 @@ python DNNFindTrackLengthInWater_Keras_predict.py
 
 # train point-prediction models to reproduce table 1
 # results will be in results folder
+python BDT_MuonEnergyReco_train_true.py
+python BDT_MuonEnergyReco_pred_true.py
 python XGBoost_MuonEnergyReco_train_true.py
 python XGBoost_MuonEnergyReco_pred_true.py
 python LGBM_MuonEnergyReco_train_true.py
