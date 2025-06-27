@@ -29,14 +29,3 @@ To reproduce the metrics of each uncertainty model run one-by-one:
 ```python ibug_xgb_test.py```
 ```python CBU_pred.py```
 ```python ibug_cbu.py```
-
-## 📁 Structure
-
-├── src/ # Scripts for preprocessing and modeling
-├── figures/ # Plots and visualizations
-├── data/ # Placeholder for input data (not included)
-├── ReconstructionUncertainty_Report.pdf
-└── README.md
-
-
-
