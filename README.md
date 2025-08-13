@@ -11,7 +11,7 @@ This project investigates the performance of various regression models (mainly G
 
 The full analysis, methodology and figures are detailed in the following report:
 
-👉 [ReconstructionUncertainty_Report.pdf](./ReconstructionUncertainty_Report.pdf)
+👉 [Predictive_Uncertainty_in_Gradient_Boosted_Regression_Trees.pdf](./Predictive_Uncertainty_in_Gradient_Boosted_Regression_Trees.pdf)
 
 
 ## 🛠️ Reproducability
